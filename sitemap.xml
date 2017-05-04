@@ -104,7 +104,16 @@
     
     <url>
     
-      <loc>https://TristanSalles.github.io/project/example-external-project/</loc>
+      <loc>https://TristanSalles.github.io/project/bgh/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://TristanSalles.github.io/project/pyreef/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -402,6 +411,16 @@
     
       <loc>https://TristanSalles.github.io/publication_types/</loc>
       <lastmod>2013-08-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://TristanSalles.github.io/tags/reef/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

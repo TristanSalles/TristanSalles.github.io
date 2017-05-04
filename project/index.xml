@@ -12,10 +12,19 @@
     
     <item>
       <title>Basin Genesis Hub</title>
-      <link>https://TristanSalles.github.io/project/example-external-project/</link>
+      <link>https://TristanSalles.github.io/project/bgh/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://TristanSalles.github.io/project/example-external-project/</guid>
+      <guid>https://TristanSalles.github.io/project/bgh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reef</title>
+      <link>https://TristanSalles.github.io/project/pyreef/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://TristanSalles.github.io/project/pyreef/</guid>
       <description></description>
     </item>
     

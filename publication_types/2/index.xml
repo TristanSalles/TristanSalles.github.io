@@ -20,22 +20,28 @@
     </item>
     
     <item>
+      <title>Badlands: A parallel basin and landscape dynamics model</title>
+      <link>https://TristanSalles.github.io/publication/person-re-identification/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://TristanSalles.github.io/publication/person-re-identification/</guid>
+      <description>
+
+&lt;h1 id=&#34;optional-featured-image-relative-to-static-img-folder&#34;&gt;Optional featured image (relative to &lt;code&gt;static/img/&lt;/code&gt; folder).&lt;/h1&gt;
+
+&lt;p&gt;[header]
+image = &amp;ldquo;headers/softX.jpg&amp;rdquo;
+caption = &amp;ldquo;Badlands landscape evolution model.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Badlands: An open-source, flexible and parallel framework to study landscape dynamics</title>
       <link>https://TristanSalles.github.io/publication/compgeo/</link>
       <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://TristanSalles.github.io/publication/compgeo/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://TristanSalles.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://TristanSalles.github.io/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

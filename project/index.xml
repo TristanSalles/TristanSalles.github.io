@@ -22,7 +22,7 @@
     <item>
       <title>Geomorphology</title>
       <link>https://TristanSalles.github.io/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://TristanSalles.github.io/project/deep-learning/</guid>
       <description>
@@ -44,18 +44,18 @@
 &lt;p&gt;If you want to install it yourself, these 2 Dockerfiles (&lt;a href=&#34;https://github.com/badlands-model/pyBadlands-Dependencies-Docker/blob/master/Dockerfile&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;dependencies&lt;/strong&gt;&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/badlands-model/pyBadlands-Docker-Demo/blob/master/Dockerfile&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;code&lt;/strong&gt;&lt;/a&gt;) are the best documentation of the required packages.&lt;/p&gt;
 
 &lt;p&gt;The latest pyBadlands version is the one that’s in our Github &lt;a href=&#34;https://github.com/badlands-model/pyBadlands&#34; target=&#34;_blank&#34;&gt;repository&lt;/a&gt;. Get it using this shell command, which requires Git:
-* &lt;code&gt;git clone https://github.com/badlands-model/pyBadlands.git&lt;/code&gt;&lt;/p&gt;
+- &lt;code&gt;git clone https://github.com/badlands-model/pyBadlands.git&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;API documentation&lt;/strong&gt; is available from &lt;a href=&#34;http://pybadlands.readthedocs.io/en/master/&#34; target=&#34;_blank&#34;&gt;http://pybadlands.readthedocs.io&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;the-specs&#34;&gt;The specs&amp;hellip;&lt;/h2&gt;
 
 &lt;p&gt;The model is based on the following characteristics:
-* The finite volume approach from &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0098300400001345&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Tucker et al. (2001)&lt;/strong&gt;&lt;/a&gt; based on the dual Delaunay-Voronoi framework is used to solve the continuity equation explicitly,
-* Node ordering is perform efficiently based on the work from &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0169555X12004618&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Braun &amp;amp; Willett (2013)&lt;/strong&gt;&lt;/a&gt;,
-* 3D surface deformations using the node refinement technique proposed by &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/2014GC005490/abstract;jsessionid=48A885F79A40B1E3E76AFC1BEAA2B238.f03t03&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Thieulot et al. ( 2014)&lt;/strong&gt;&lt;/a&gt;.
-* Orographic precipitation using &lt;a href=&#34;http://journals.ametsoc.org/doi/abs/10.1175/1520-0469(2004)061%3C1377%3AALTOOP%3E2.0.CO%3B2&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Smith &amp;amp; Barstad (2004)&lt;/strong&gt;&lt;/a&gt; linear model to compute topographic induced rain field.
-* Varying erodibility layers (both horizontally and vertically) to simulate impact of changing sediment characteristics on landscape evolution.&lt;/p&gt;
++ The finite volume approach from &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0098300400001345&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Tucker et al. (2001)&lt;/strong&gt;&lt;/a&gt; based on the dual Delaunay-Voronoi framework is used to solve the continuity equation explicitly,
++ Node ordering is perform efficiently based on the work from &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0169555X12004618&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Braun &amp;amp; Willett (2013)&lt;/strong&gt;&lt;/a&gt;,
++ 3D surface deformations using the node refinement technique proposed by &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/2014GC005490/abstract;jsessionid=48A885F79A40B1E3E76AFC1BEAA2B238.f03t03&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Thieulot et al. ( 2014)&lt;/strong&gt;&lt;/a&gt;.
++ Orographic precipitation using &lt;a href=&#34;http://journals.ametsoc.org/doi/abs/10.1175/1520-0469(2004)061%3C1377%3AALTOOP%3E2.0.CO%3B2&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Smith &amp;amp; Barstad (2004)&lt;/strong&gt;&lt;/a&gt; linear model to compute topographic induced rain field.
++ Varying erodibility layers (both horizontally and vertically) to simulate impact of changing sediment characteristics on landscape evolution.&lt;/p&gt;
 
 &lt;p&gt;A set of functions for &lt;em&gt;pre&lt;/em&gt; &amp;amp; &lt;em&gt;post&lt;/em&gt;-processing of &lt;strong&gt;Badlands&lt;/strong&gt; inputs and outputs is available in a GitHub &lt;a href=&#34;https://github.com/badlands-model/pyBadlands-Companion&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Companion&lt;/strong&gt;&lt;/a&gt; repository which is already shipped with the Badlands Docker container.&lt;/p&gt;
 
@@ -71,14 +71,23 @@
 
 &lt;p&gt;Current releases (&lt;strong&gt;DOI&lt;/strong&gt; citable):&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Release v1.0.0 :&lt;/em&gt;&lt;br /&gt;
-+ &lt;strong&gt;&lt;a href=&#34;http://doi.org/10.5281/zenodo.160412&#34; target=&#34;_blank&#34;&gt;Release 1: badlands-model/pyBadlands&lt;/a&gt;, Zenodo, doi:10.5281/zenodo.160412, 2016.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Release v1.0.0 :&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Release v1.1.0 :&lt;/em&gt;&lt;br /&gt;
-+ &lt;strong&gt;&lt;a href=&#34;http://doi.org/10.5281/zenodo.268053&#34; target=&#34;_blank&#34;&gt;Release 2: badlands-model/pyBadlands&lt;/a&gt;, Zenodo, doi:10.5281/zenodo.268053, 2017.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://doi.org/10.5281/zenodo.160412&#34; target=&#34;_blank&#34;&gt;Release 1: badlands-model/pyBadlands&lt;/a&gt;, Zenodo, doi:10.5281/zenodo.160412, 2016.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;v2.0.0 Release Candidate :&lt;/em&gt;
-+ The &lt;code&gt;master&lt;/code&gt; branch is a stable version of the code with the most recent developments embedded and is expected to be released as &lt;strong&gt;version 2.0.0&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Release v1.1.0 :&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://doi.org/10.5281/zenodo.268053&#34; target=&#34;_blank&#34;&gt;Release 2: badlands-model/pyBadlands&lt;/a&gt;, Zenodo, doi:10.5281/zenodo.268053, 2017.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;v2.0.0 Release Candidate :&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;code&gt;master&lt;/code&gt; branch is a stable version of the code with the most recent developments embedded and is expected to be released as &lt;strong&gt;version 2.0.0&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&#34;reporting&#34;&gt;Reporting&lt;/h3&gt;
 

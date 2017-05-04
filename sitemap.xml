@@ -158,7 +158,7 @@
     
     <url>
     
-      <loc>https://TristanSalles.github.io/project/deep-learning/</loc>
+      <loc>https://TristanSalles.github.io/project/badlands/</loc>
       <lastmod>2016-01-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -351,7 +351,8 @@
     
     <url>
     
-      <loc>https://TristanSalles.github.io/categories/</loc>
+      <loc>https://TristanSalles.github.io/tags/badlands/</loc>
+      <lastmod>2016-01-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -360,8 +361,7 @@
     
     <url>
     
-      <loc>https://TristanSalles.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-01-27T00:00:00+00:00</lastmod>
+      <loc>https://TristanSalles.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     

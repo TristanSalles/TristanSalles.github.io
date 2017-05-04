@@ -47,29 +47,11 @@
     </item>
     
     <item>
-      <title>Numerical modelling of tectonically driven river dynamics and deposition in an upland incised valley</title>
-      <link>https://TristanSalles.github.io/publication/geomorph2/</link>
-      <pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://TristanSalles.github.io/publication/geomorph2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Combined hillslope diffusion and sediment transport simulation applied to landscape dynamics modelling</title>
       <link>https://TristanSalles.github.io/publication/epsl/</link>
       <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://TristanSalles.github.io/publication/epsl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combined hillslope diffusion and sediment transport simulation applied to landscape dynamics modelling</title>
-      <link>https://TristanSalles.github.io/publication/sepm/</link>
-      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://TristanSalles.github.io/publication/sepm/</guid>
       <description></description>
     </item>
     
@@ -137,11 +119,29 @@
     </item>
     
     <item>
-      <title>Cellular Automata Models of Density Currents</title>
+      <title>Simulating the 1999 turbidity current occurred in Capbreton canyon through a Cellular Automata model</title>
+      <link>https://TristanSalles.github.io/publication/geomorph3/</link>
+      <pubDate>Mon, 05 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://TristanSalles.github.io/publication/geomorph3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbidity current modelling on geological time-scales</title>
       <link>https://TristanSalles.github.io/publication/margeo3/</link>
-      <pubDate>Thu, 14 Dec 2006 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Oct 2007 00:00:00 +0000</pubDate>
       
       <guid>https://TristanSalles.github.io/publication/margeo3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellular Automata Models of Density Currents</title>
+      <link>https://TristanSalles.github.io/publication/geomorph2/</link>
+      <pubDate>Thu, 14 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://TristanSalles.github.io/publication/geomorph2/</guid>
       <description></description>
     </item>
     

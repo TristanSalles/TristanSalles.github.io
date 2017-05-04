@@ -140,7 +140,88 @@
     
     <url>
     
+      <loc>https://TristanSalles.github.io/publication/geomorph2/</loc>
+      <lastmod>2015-04-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://TristanSalles.github.io/publication/geomorph3/</loc>
+      <lastmod>2015-04-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://TristanSalles.github.io/publication/epsl/</loc>
+      <lastmod>2014-12-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://TristanSalles.github.io/publication/jgr/</loc>
+      <lastmod>2014-12-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://TristanSalles.github.io/publication/marfresh/</loc>
+      <lastmod>2014-12-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://TristanSalles.github.io/publication/margeo/</loc>
+      <lastmod>2014-12-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://TristanSalles.github.io/publication/margeo2/</loc>
+      <lastmod>2014-12-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://TristanSalles.github.io/publication/margeo3/</loc>
+      <lastmod>2014-12-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://TristanSalles.github.io/publication/sedgeo2/</loc>
+      <lastmod>2014-12-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://TristanSalles.github.io/publication/sepm/</loc>
       <lastmod>2014-12-16T00:00:00+00:00</lastmod>
     </url>
     
@@ -151,6 +232,34 @@
     
       <loc>https://TristanSalles.github.io/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://TristanSalles.github.io/publication/aussim/</loc>
+      <lastmod>2013-08-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://TristanSalles.github.io/publication/sedgeo/</loc>
+      <lastmod>2012-05-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://TristanSalles.github.io/publication_types/1/</loc>
+      <lastmod>2013-08-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -228,7 +337,7 @@
     <url>
     
       <loc>https://TristanSalles.github.io/publication_types/</loc>
-      <lastmod>2017-01-25T00:00:00+00:00</lastmod>
+      <lastmod>2013-08-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

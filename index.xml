@@ -40,7 +40,7 @@
 &lt;h1 id=&#34;optional-featured-image-relative-to-static-img-folder&#34;&gt;Optional featured image (relative to &lt;code&gt;static/img/&lt;/code&gt; folder).&lt;/h1&gt;
 
 &lt;p&gt;[header]
-image = &amp;ldquo;headers/softX.jpg&amp;rdquo;
+image = &amp;ldquo;headers/softx.jpg&amp;rdquo;
 caption = &amp;ldquo;Badlands landscape evolution model.&amp;rdquo;&lt;/p&gt;
 </description>
     </item>

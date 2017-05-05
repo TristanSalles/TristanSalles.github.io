@@ -47,6 +47,15 @@
     </item>
     
     <item>
+      <title>Reef</title>
+      <link>https://TristanSalles.github.io/project/pyreef/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://TristanSalles.github.io/project/pyreef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Responses of reefs to climatic forcing – A numerical perspective</title>
       <link>https://TristanSalles.github.io/talk/coral/</link>
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
@@ -207,24 +216,6 @@ Salles T., Cacas M.C., Mulder T., 2005. Simulating Turbidity Currents through a 
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://TristanSalles.github.io/publication/softx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Basin Genesis Hub</title>
-      <link>https://TristanSalles.github.io/project/bgh/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://TristanSalles.github.io/project/bgh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reef</title>
-      <link>https://TristanSalles.github.io/project/pyreef/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://TristanSalles.github.io/project/pyreef/</guid>
       <description></description>
     </item>
     
@@ -989,6 +980,15 @@ Here&#39;s some important information...
       <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://TristanSalles.github.io/publication/compgeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basin Genesis Hub</title>
+      <link>https://TristanSalles.github.io/project/bgh/</link>
+      <pubDate>Sat, 27 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://TristanSalles.github.io/project/bgh/</guid>
       <description></description>
     </item>
     

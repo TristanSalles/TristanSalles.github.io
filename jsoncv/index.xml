@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JsonCVs on Research &amp; more...</title>
+    <link>https://TristanSalles.github.io/jsoncv/</link>
+    <description>Recent content in JsonCVs on Research &amp; more...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2017 Tristan Salles</copyright>
+    <atom:link href="/jsoncv/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://TristanSalles.github.io/jsoncv/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://TristanSalles.github.io/jsoncv/resume/</guid>
+      <description>&lt;!DOCTYPE html&gt;&lt;html lang=&#34;en&#34;&gt;&lt;head&gt;&lt;meta charset=&#34;utf-8&#34;/&gt;&lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;/&gt;&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;/&gt;&lt;title&gt;Dr Tristan Salles&lt;/title&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css&#34;/&gt;&lt;style&gt;@font-face {
+  font-family: &#39;icomoon&#39;;
+  src:  url(&#39;fonts/icomoon.eot?9yug7q&#39;);
+  src:  url(&#39;fonts/icomoon.eot?9yug7q#iefix&#39;) format(&#39;embedded-opentype&#39;),
+    url(&#39;fonts/icomoon.ttf?9yug7q&#39;) format(&#39;truetype&#39;),
+    url(&#39;fonts/icomoon.woff?9yug7q&#39;) format(&#39;woff&#39;),
+    url(&#39;fonts/icomoon.svg?9yug7q#icomoon&#39;) format(&#39;svg&#39;);
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^=&#34;icon-&#34;], [class*=&#34; icon-&#34;] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: &#39;icomoon&#39; !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-instagram:before {
+  content: &#34;\e905&#34;;
+}
+.icon-trophy:before {
+  content: &#34;\e605&#34;;
+}
+.icon-office:before {
+  content: &#34;\e606&#34;;
+}
+.icon-clock:before {
+  content: &#34;\e60a&#34;;
+}
+.icon-reddit:before {
+  content: &#34;\e609&#34;;
+}
+.icon-telegram:before {
+  content: &#34;\e904&#34;;
+}
+.icon-flickr:before {
+  content: &#34;\f16e&#34;;
+}
+.icon-medium:before {
+  content: &#34;\f23a&#34;;
+}
+.icon-heart:before {
+  content: &#34;\f004&#34;;
+}
+.icon-book:before {
+  content: &#34;\f02d&#34;;
+}
+.icon-linkedin:before {
+  content: &#34;\f08c&#34;;
+}
+.icon-twitter:before {
+  content: &#34;\f099&#34;;
+}
+.icon-github:before {
+  content: &#34;\f09b&#34;;
+}
+.icon-link:before {
+  content: &#34;\f0c1&#34;;
+}
+.icon-bars:before {
+  content: &#34;\f0c9&#34;;
+}
+.icon-pinterest:before {
+  content: &#34;\f0d2&#34;;
+}
+.icon-googleplus:before {
+  content: &#34;\f0d5&#34;;
+}
+.icon-circle:before {
+  content: &#34;\f111&#34;;
+}
+.icon-code:before {
+  content: &#34;\f121&#34;;
+}
+.icon-youtube:before {
+  content: &#34;\f167&#34;;
+}
+.icon-stackoverflow:before {
+  content: &#34;\f16c&#34;;
+}
+.icon-bitbucket:before {
+  content: &#34;\f171&#34;;
+}
+.icon-tumblr:before {
+  content: &#34;\f173&#34;;
+}
+.icon-dribbble:before {
+  content: &#34;\f17d&#34;;
+}
+.icon-skype:before {
+  content: &#34;\f17e&#34;;
+}
+.icon-foursquare:before {
+  content: &#34;\f180&#34;;
+}
+.icon-gittip:before {
+  content: &#34;\f184&#34;;
+}
+.icon-gratipay:before {
+  content: &#34;\f184&#34;;
+}
+.icon-stackexchange:before {
+  content: &#34;\f18d&#34;;
+}
+.icon-vimeo:before {
+  content: &#34;\f194&#34;;
+}
+.icon-graduation-cap:before {
+  content: &#34;\f19d&#34;;
+}
+.icon-language:before {
+  content: &#34;\f1ab&#34;;
+}
+.icon-child:before {
+  content: &#34;\f1ae&#34;;
+}
+.icon-behance:before {
+  content: &#34;\f1b5&#34;;
+}
+.icon-spotify:before {
+  content: &#34;\f1bc&#34;;
+}
+.icon-soundcloud:before {
+  content: &#34;\f1be&#34;;
+}
+.icon-codepen:before {
+  content: &#34;\f1cb&#34;;
+}
+.icon-hackernews:before {
+  content: &#34;\f1d4&#34;;
+}
+.icon-lastfm:before {
+  content: &#34;\f202&#34;;
+}
+.icon-angellist:before {
+  content: &#34;\f209&#34;;
+}
+.icon-facebook:before {
+  content: &#34;\f230&#34;;
+}
+.icon-meetup .path1:before {
+  content: &#34;\e901&#34;;
+  color: rgb(255, 255, 255);
+}
+.icon-meetup .path2:before {
+  content: &#34;\e902&#34;;
+  margin-left: -1.5em;
+  color: rgb(240, 1, 1);
+}
+.icon-meetup .path3:before {
+  content: &#34;\e903&#34;;
+  margin-left: -1.5em;
+  color: rgb(3, 3, 3);
+}
+.icon-blogger:before {
+  content: &#34;\e900&#34;;
+}
+.icon-exercism:before {
+  content: &#34;\e601&#34;;
+}
+.icon-profile:before {
+  content: &#34;\e600&#34;;
+}
+.icon-tools:before {
+  content: &#34;\e034&#34;;
+}
+.icon-location:before {
+  content: &#34;\e602&#34;;
+}
+.icon-mail:before {
+  content: &#34;\e603&#34;;
+}
+.icon-phone:before {
+  content: &#34;\e03f&#34;;
+}
+.icon-newspaper:before {
+  content: &#34;\e607&#34;;
+}
+.icon-dots-three-horizontal:before {
+  content: &#34;\e60b&#34;;
+}
+.icon-thumbs-up:before {
+  content: &#34;\e604&#34;;
+}
+.icon-chevron-down:before {
+  content: &#34;\e60c&#34;;
+}
+.icon-chevron-up:before {
+  content: &#34;\e60d&#34;;
+}
+.icon-dots-three-horizontal:before {
+  content: &#34;\e60b&#34;;
+}
+.icon-thumbs-up:before {
+  content: &#34;\e604&#34;;
+}
+.icon-board:before {
+  content: &#34;\e608&#34;;
+}
+
+
+.relative {
+  position: relative;
+}
+.clear-margin {
+  margin: 0;
+}
+.space-top {
+  margin-top: 10px;
+}
+.space-right {
+  margin-right: 10px;
+}
+.space-bottom {
+  margin-bottom: 10px;
+}
+.mr-5 {
+  margin-right: 5px;
+}
+.mr-10 {
+  margin-right: 10px;
+}
+.ml-5 {
+  margin-left: 5px;
+}
+.labels {
+  line-height: 2;
+}
+.label-keyword {
+  display: inline-block;
+  background: #7eb0db;
+  color: white;
+  font-size: 0.9em;
+  padding: 5px;
+  border: 1px solid #357ebd;
+  margin-right: 5px;
+}
+.label-keyword:last-child {
+  margin-right: 0;
+}
+.link-disguise {
+  color: inherit;
+}
+.link-disguise:hover {
+  color: inherit;
+}
+.clear-margin {
+  margin: 0;
+}
+@media (max-width: 992px) {
+  .clear-margin-sm {
+    margin-bottom: 0;
+  }
+}
+.fs-lg {
+  font-size: 1.33333333em;
+  line-height: .75em;
+  vertical-align: -15%;
+}
+.fs-2x {
+  font-size: 2em;
+}
+.fs-3x {
+  font-size: 3em;
+}
+.fs-4x {
+  font-size: 4em;
+}
+.btn-circle-sm {
+  width: 28px;
+  height: 28px;
+  line-height: 28px;
+  border-radius: 50%;
+  text-align: center;
+  padding: 0;
+  outline: none !important;
+}
+@font-face {
+  font-family: &#39;jst-elegant&#39;;
+  src: url(&#34;//unpkg.com/jsonresume-theme-elegant@1.10.1/assets/icomoon/fonts/icomoon.eot?f218wo&#34;);
+  src: url(&#34;//unpkg.com/jsonresume-theme-elegant@1.10.1/assets/icomoon/fonts/icomoon.eot?f218wo#iefix&#34;) format(&#39;embedded-opentype&#39;), url(&#34;//unpkg.com/jsonresume-theme-elegant@1.10.1/assets/icomoon/fonts/icomoon.ttf?f218wo&#34;) format(&#39;truetype&#39;), url(&#34;//unpkg.com/jsonresume-theme-elegant@1.10.1/assets/icomoon/fonts/icomoon.woff?f218wo&#34;) format(&#39;woff&#39;), url(&#34;//unpkg.com/jsonresume-theme-elegant@1.10.1/assets/icomoon/fonts/icomoon.svg?f218wo#icomoon&#34;) format(&#39;svg&#39;);
+  font-weight: normal;
+  font-style: normal;
+}
+[class^=&#34;icon-&#34;],
+[class*=&#34; icon-&#34;] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: &#39;jst-elegant&#39; !important;
+}
+body {
+  font-family: &#39;Lato&#39;;
+  background: #f0f0f0;
+  color: #333;
+}
+.main {
+  padding: 5px;
+}
+.card {
+  background: white;
+  border: 1px solid #e6e6e6;
+  border-radius: 3px;
+  min-height: 300px;
+  padding: 10px 0;
+}
+.card-nested {
+  min-height: 0;
+  border-width: 1px 0 0 0;
+}
+.card-nested:before,
+.card-nested:after {
+  content: &#34; &#34;;
+  display: table;
+}
+.card-nested:after {
+  clear: both;
+}
+@media (max-width: 480px) {
+  .card-nested {
+    padding: 5px 0;
+  }
+}
+.background-card {
+  padding: 10px 20px;
+}
+.card-wrapper {
+  padding: 5px;
+}
+@media (max-width: 992px) {
+  .card-wrapper {
+    float: none !important;
+  }
+}
+.background-details .detail {
+  display: table;
+}
+.background-details .detail .icon {
+  min-width: 45px;
+  max-width: 45px;
+  text-align: center;
+}
+.background-details .detail .info {
+  width: 100%;
+}
+.background-details .detail .title,
+.background-details .detail .icon {
+  color: #707070;
+}
+.background-details .detail .mobile-title {
+  display: none;
+}
+@media (max-width: 480px) {
+  .background-details .detail .mobile-title {
+    display: inline-block;
+    margin-left: 5px;
+    font-weight: bold;
+    text-transform: uppercase;
+    vertical-align: middle;
+  }
+}
+.background-details .detail .icon,
+.background-details .detail .info {
+  display: table-cell;
+  padding: 0 10px;
+}
+@media (max-width: 480px) {
+  .background-details .detail {
+    display: block;
+  }
+  .background-details .detail .icon {
+    max-width: inherit;
+    min-width: inherit;
+    text-align: left;
+  }
+  .background-details .detail .icon,
+  .background-details .detail .info {
+    display: block;
+    padding: 10px 0;
+  }
+  .background-details .detail .title {
+    display: none;
+  }
+}
+.info .content.has-sidebar {
+  width: 80%;
+  box-sizing: border-box;
+  float: left;
+  padding: 0 10px;
+  border-right: 1px solid #cdcdcd;
+}
+@media (max-width: 992px) {
+  .info .content.has-sidebar {
+    width: 100%;
+    border-right: 0;
+  }
+}
+@media (max-width: 480px) {
+  .info .content.has-sidebar {
+    padding: 0 2px;
+  }
+}
+.info .sidebar {
+  margin-left: 80%;
+  box-sizing: border-box;
+  padding: 10px;
+}
+@media (max-width: 480px) {
+  ul {
+    padding-left: 25px;
+  }
+}
+.current-event {
+  font-size: 8px;
+  color: #5ACE24;
+  position: absolute;
+  right: 100%;
+  top: 4px;
+  left: -10px;
+}
+.mop-wrapper &gt; p:last-child {
+  margin: 0;
+}
+/*
+    Credits: http://codyhouse.co/demo/smart-fixed-navigation/index.html
+*/
+.floating-nav-trigger {
+  width: 50px;
+  height: 50px;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.24);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.24);
+  -webkit-transition: background-color 0.5s ease;
+  -o-transition: background-color 0.5s ease;
+  transition: background-color 0.5s ease;
+  display: block;
+  border-radius: 50%;
+  text-align: center;
+  background-color: white;
+  font-size: 1.5em;
+  color: #357ebd;
+  z-index: 100;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  text-decoration: none !important;
+}
+.floating-nav-trigger &gt; [class^=&#34;icon-&#34;],
+.floating-nav-trigger [class*=&#34; icon-&#34;],
+.floating-nav-trigger &gt; .close-icon {
+  line-height: 50px;
+}
+.floating-nav-trigger .close-icon {
+  display: none;
+}
+.floating-nav-trigger:hover {
+  color: #1f496e;
+  background-color: #e6e6e6;
+}
+.floating-nav-trigger.is-open {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.floating-nav-trigger.is-open .close-icon {
+  display: inherit;
+}
+.floating-nav-trigger.is-open .icon-bars {
+  display: none;
+}
+.floating-nav-trigger.is-open:hover {
+  background-color: white;
+}
+.floating-nav {
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  -o-transform: scale(0);
+  transform: scale(0);
+  -webkit-transform-origin: 100% 100%;
+  -moz-transform-origin: 100% 100%;
+  -ms-transform-origin: 100% 100%;
+  transform-origin: 100% 100%;
+  -webkit-transition: transform 0.3s, visibility 0s 0.3s;
+  -o-transition: transform 0.3s, visibility 0s 0.3s;
+  transition: transform 0.3s, visibility 0s 0.3s;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.24);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.24);
+  position: fixed;
+  z-index: 50;
+  right: 10px;
+  bottom: 10px;
+  background-color: white;
+  width: 90%;
+  max-width: 400px;
+  visibility: hidden;
+  overflow: hidden;
+}
+.floating-nav ul {
+  font-size: 1.2em;
+  margin: 0;
+}
+.floating-nav ul li {
+  border-bottom: 1px solid #eff2f6;
+}
+.floating-nav ul li a {
+  padding: 20px;
+  text-decoration: none;
+  color: #357ebd;
+  display: block;
+}
+.floating-nav ul li a:hover {
+  color: #1f496e;
+}
+.floating-nav ul li:last-child {
+  border-bottom: 0;
+}
+.floating-nav.is-visible {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  -o-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: transform 0.3s, visibility 0s 0s;
+  -o-transition: transform 0.3s, visibility 0s 0s;
+  transition: transform 0.3s, visibility 0s 0s;
+  visibility: visible;
+}
+@media (max-width: 992px) {
+  .profile-card-wrapper {
+    position: relative;
+  }
+}
+.profile-card-wrapper .profile-card {
+  padding: 10px;
+}
+.profile-pic {
+  padding: 20px 0;
+}
+@media (max-width: 992px) {
+  .profile-pic {
+    padding: 10px 0;
+  }
+}
+.profile-pic img {
+  width: 100px;
+  height: 100px;
+}
+@media (max-width: 992px) {
+  .name {
+    margin-top: 10px;
+  }
+}
+@media (max-width: 768px) {
+  .contact-details {
+    text-align: center;
+  }
+}
+.contact-details .detail {
+  display: table;
+  padding: 10px 0;
+}
+.contact-details .detail .icon {
+  padding: 0 10px;
+  color: #707070;
+}
+@media (max-width: 992px) {
+  .contact-details .detail .icon {
+    padding: 0 5px 0 0;
+  }
+}
+.contact-details .detail .info {
+  font-size: 0.8em;
+}
+.contact-details .detail .icon,
+.contact-details .detail .info {
+  display: table-cell;
+  vertical-align: middle;
+}
+@media (max-width: 768px) {
+  .contact-details .detail {
+    position: relative;
+    float: left;
+    width: 100%;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+@media (max-width: 992px) {
+  .contact-details .detail {
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding: 10px;
+  }
+  .contact-details .detail .icon,
+  .contact-details .detail .info {
+    display: inline-block;
+  }
+}
+@media (max-width: 992px) and (min-width: 768px) {
+  .contact-details .detail {
+    float: left;
+    width: 25%;
+  }
+}
+.social-links {
+  line-height: 2.5;
+}
+.social-link {
+  margin-left: 5px;
+  min-width: 35px;
+  display: inline-block;
+}
+.social-link:first-child {
+  margin-left: 0;
+}
+.social-link:hover {
+  text-decoration: none;
+}
+.link-github {
+  color: #454545;
+}
+.link-github:hover,
+.link-github:focus {
+  text-decoration: none;
+  color: #2b2b2b;
+}
+.link-twitter {
+  color: #33ccff;
+}
+.link-twitter:hover,
+.link-twitter:focus {
+  text-decoration: none;
+  color: #00bfff;
+}
+.link-blog {
+  color: #f36f24;
+}
+.link-blog:hover,
+.link-blog:focus {
+  text-decoration: none;
+  color: #d8560c;
+}
+.link-linkedin {
+  color: #007bb6;
+}
+.link-linkedin:hover,
+.link-linkedin:focus {
+  text-decoration: none;
+  color: #005983;
+}
+.link-skype {
+  color: #12A5F4;
+}
+.link-skype:hover,
+.link-skype:focus {
+  text-decoration: none;
+  color: #0986ca;
+}
+.link-instagram {
+  color: #e4405f;
+}
+.link-instagram:hover,
+.link-instagram:focus {
+  text-decoration: none;
+  color: #d31e40;
+}
+.link-stackoverflow {
+  color: #8e8e92;
+}
+.link-stackoverflow:hover,
+.link-stackoverflow:focus {
+  text-decoration: none;
+  color: #747479;
+}
+.link-stackexchange {
+  color: #62b0df;
+}
+.link-stackexchange:hover,
+.link-stackexchange:focus {
+  text-decoration: none;
+  color: #389bd6;
+}
+.link-lastfm {
+  color: #d12127;
+}
+.link-lastfm:hover,
+.link-lastfm:focus {
+  text-decoration: none;
+  color: #a51a1f;
+}
+.link-soundcloud {
+  color: #e8822d;
+}
+.link-soundcloud:hover,
+.link-soundcloud:focus {
+  text-decoration: none;
+  color: #cc6916;
+}
+.link-googleplus {
+  color: #dd4b39;
+}
+.link-googleplus:hover,
+.link-googleplus:focus {
+  text-decoration: none;
+  color: #c23321;
+}
+.link-youtube {
+  color: #dd4b39;
+}
+.link-youtube:hover,
+.link-youtube:focus {
+  text-decoration: none;
+  color: #c23321;
+}
+.link-pinterest {
+  color: #bd091f;
+}
+.link-pinterest:hover,
+.link-pinterest:focus {
+  text-decoration: none;
+  color: #8c0717;
+}
+.link-gratipay {
+  color: #630;
+}
+.link-gratipay:hover,
+.link-gratipay:focus {
+  text-decoration: none;
+  color: #331a00;
+}
+.link-vimeo {
+  color: #17b3e8;
+}
+.link-vimeo:hover,
+.link-vimeo:focus {
+  text-decoration: none;
+  color: #128fba;
+}
+.link-behance {
+  color: #2c98cf;
+}
+.link-behance:hover,
+.link-behance:focus {
+  text-decoration: none;
+  color: #2379a5;
+}
+.link-codepen {
+  color: #1c1c1c;
+}
+.link-codepen:hover,
+.link-codepen:focus {
+  text-decoration: none;
+  color: #020202;
+}
+.link-foursquare {
+  color: #fa4778;
+}
+.link-foursquare:hover,
+.link-foursquare:focus {
+  text-decoration: none;
+  color: #f91554;
+}
+.link-reddit {
+  color: #545454;
+}
+.link-reddit:hover,
+.link-reddit:focus {
+  text-decoration: none;
+  color: #3b3b3b;
+}
+.link-spotify {
+  color: #acd200;
+}
+.link-spotify:hover,
+.link-spotify:focus {
+  text-decoration: none;
+  color: #829f00;
+}
+.link-tumblr {
+  color: #2d4661;
+}
+.link-tumblr:hover,
+.link-tumblr:focus {
+  text-decoration: none;
+  color: #1d2d3e;
+}
+.link-dribbble {
+  color: #ce366f;
+}
+.link-dribbble:hover,
+.link-dribbble:focus {
+  text-decoration: none;
+  color: #a82959;
+}
+.link-facebook {
+  color: #4b6daa;
+}
+.link-facebook:hover,
+.link-facebook:focus {
+  text-decoration: none;
+  color: #3b5687;
+}
+.link-angellist {
+  color: black;
+}
+.link-angellist:hover,
+.link-angellist:focus {
+  text-decoration: none;
+  color: #000000;
+}
+.link-bitbucket {
+  color: #205081;
+}
+.link-bitbucket:hover,
+.link-bitbucket:focus {
+  text-decoration: none;
+  color: #163758;
+}
+.link-hackernews {
+  color: #ff6600;
+}
+.link-hackernews:hover,
+.link-hackernews:focus {
+  text-decoration: none;
+  color: #cc5200;
+}
+.link-exercism {
+  color: #d81d4e;
+}
+.link-exercism:hover,
+.link-exercism:focus {
+  text-decoration: none;
+  color: #ab173e;
+}
+.link-blogger {
+  color: #FF9234;
+}
+.link-blogger:hover,
+.link-blogger:focus {
+  text-decoration: none;
+  color: #ff7701;
+}
+.link-medium {
+  color: #00AB6C;
+}
+.link-medium:hover,
+.link-medium:focus {
+  text-decoration: none;
+  color: #00784c;
+}
+.link-flickr {
+  color: black;
+}
+.link-flickr:hover,
+.link-flickr:focus {
+  text-decoration: none;
+  color: #000000;
+}
+.link-telegram {
+  color: #3BABDD;
+}
+.link-telegram:hover,
+.link-telegram:focus {
+  text-decoration: none;
+  color: #2291c3;
+}
+.card-skills {
+  position: relative;
+}
+.skill-level {
+  border-radius: 3px;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 0;
+  width: 10px;
+  box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.2);
+}
+.skill-level .skill-progress {
+  position: absolute;
+  border-radius: 3px;
+  bottom: 0;
+  width: 100%;
+  -webkit-transition: height 1s ease;
+}
+.skill-level .skill-progress.beginner {
+  height: 50%;
+  background: #e74c3c;
+}
+.skill-level .skill-progress.intermediate {
+  height: 70%;
+  background: #f1c40f;
+}
+.skill-level .skill-progress.advanced {
+  height: 80%;
+  background: #428bca;
+}
+.skill-level .skill-progress.master {
+  height: 95%;
+  background: #5cb85c;
+}
+.skill-info {
+  margin-left: 15px;
+}
+@media (max-width: 480px) {
+  .skill-info {
+    margin-left: 20px;
+  }
+}
+@media (max-width: 768px) {
+  .quote {
+    font-size: inherit;
+  }
+}
+.icon-meetup .path2:before {
+  margin-left: 0;
+}
+@media print {
+  a[href]:after {
+    content: none !important;
+  }
+  .profile-card {
+    text-align: center;
+  }
+  .profile-pic {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .profile-pic img {
+    border-radius: 0;
+  }
+  .name-and-profession {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
+  }
+  .contact-details .detail {
+    position: relative;
+    float: left;
+    width: 25%;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding: 0;
+  }
+  .floating-nav,
+  .floating-nav-trigger {
+    display: none;
+  }
+  .pagebreak {
+    page-break-before: always;
+  }
+}
+&lt;/style&gt;&lt;/head&gt;&lt;body itemscope=&#34;itemscope&#34; itemtype=&#34;http://schema.org/Person&#34;&gt;&lt;div class=&#34;container-fluid&#34;&gt;&lt;div class=&#34;row main clearfix&#34;&gt;&lt;a class=&#34;js-floating-nav-trigger floating-nav-trigger&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;icon-bars&#34;&gt;&lt;/i&gt;&lt;span class=&#34;close-icon&#34;&gt;&amp;times;&lt;/span&gt;&lt;/a&gt;&lt;nav class=&#34;floating-nav js-floating-nav&#34;&gt;&lt;ul class=&#34;list-unstyled&#34;&gt;&lt;li&gt;&lt;a href=&#34;#about&#34;&gt;&lt;i class=&#34;mr-10 icon-board&#34;&gt;&lt;/i&gt;About&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;#work-experience&#34;&gt;&lt;i class=&#34;mr-10 icon-office&#34;&gt;&lt;/i&gt;Work Experience&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;#skills&#34;&gt;&lt;i class=&#34;mr-10 icon-tools&#34;&gt;&lt;/i&gt;Skills&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;#education&#34;&gt;&lt;i class=&#34;mr-10 icon-graduation-cap&#34;&gt;&lt;/i&gt;Education&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;#awards&#34;&gt;&lt;i class=&#34;mr-10 icon-trophy&#34;&gt;&lt;/i&gt;Awards&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;#volunteer-work&#34;&gt;&lt;i class=&#34;mr-10 icon-child&#34;&gt;&lt;/i&gt;Volunteer Work&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;#publications&#34;&gt;&lt;i class=&#34;mr-10 icon-newspaper&#34;&gt;&lt;/i&gt;Publications&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;#interests&#34;&gt;&lt;i class=&#34;mr-10 icon-heart&#34;&gt;&lt;/i&gt;Interests&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;#references&#34;&gt;&lt;i class=&#34;mr-10 icon-thumbs-up&#34;&gt;&lt;/i&gt;References&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/nav&gt;&lt;section class=&#34;col-md-3 card-wrapper profile-card-wrapper affix&#34;&gt;&lt;div class=&#34;card profile-card&#34;&gt;&lt;span class=&#34;profile-pic-container&#34;&gt;&lt;div class=&#34;profile-pic&#34;&gt;&lt;img class=&#34;media-object img-circle center-block&#34; data-src=&#34;holder.js/100x100&#34; alt=&#34;Dr Tristan Salles&#34; src=&#34;https://s.gravatar.com/avatar/0d176e777dcb747ce51d847c48549329?s=100&amp;amp;r=pg&amp;amp;d=mm&#34; itemprop=&#34;image&#34;/&gt;&lt;/div&gt;&lt;div class=&#34;name-and-profession text-center&#34;&gt;&lt;h3 itemprop=&#34;name&#34;&gt;&lt;b&gt;Dr Tristan Salles&lt;/b&gt;&lt;/h3&gt;&lt;h5 class=&#34;text-muted&#34; itemprop=&#34;jobTitle&#34;&gt;Research Scientist - Quantitative Geosciences&lt;/h5&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr/&gt;&lt;div class=&#34;contact-details clearfix&#34;&gt;&lt;div class=&#34;detail&#34;&gt;&lt;span class=&#34;icon&#34;&gt;&lt;i class=&#34;icon fs-lg icon-location&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;span class=&#34;info&#34;&gt;20 Wilson St, 2035 Maroubra, Sydney, NSW, Australia&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;detail&#34;&gt;&lt;span class=&#34;icon&#34;&gt;&lt;i class=&#34;icon fs-lg icon-phone&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;span class=&#34;info&#34; itemprop=&#34;telephone&#34;&gt;(61) 4 5146-2502&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;detail&#34;&gt;&lt;span class=&#34;icon&#34;&gt;&lt;i class=&#34;icon fs-lg icon-mail&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;span class=&#34;info&#34;&gt;&lt;a class=&#34;link-disguise&#34; href=&#34;mailto:sallestaing@gmail.com&#34; itemprop=&#34;email&#34;&gt;sallestaing@gmail.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;detail&#34;&gt;&lt;span class=&#34;icon&#34;&gt;&lt;i class=&#34;icon fs-lg icon-link&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;span class=&#34;info&#34;&gt;&lt;a href=&#34;https://tristansalles.github.io&#34; target=&#34;_blank&#34;&gt;https://tristansalles.github.io&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;detail&#34;&gt;&lt;span class=&#34;icon&#34; title=&#34;Languages I speak&#34;&gt;&lt;i class=&#34;icon fs-lg icon-language&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;span class=&#34;info&#34;&gt;French, English&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;hr/&gt;&lt;div class=&#34;social-links text-center&#34;&gt;&lt;div&gt;&lt;a class=&#34;fs-2x social-link link-linkedin icon-linkedin&#34; href=&#34;http://www.linkedin.com/in/sallestristan&#34; target=&#34;_blank&#34; data-toggle=&#34;tooltip&#34; title=&#34;Dr Tristan Salles on LinkedIn&#34;&gt;&lt;/a&gt;&lt;a class=&#34;fs-2x social-link link-github icon-github&#34; href=&#34;https://github.com/tristan-salles&#34; target=&#34;_blank&#34; data-toggle=&#34;tooltip&#34; title=&#34;Dr Tristan Salles on Github&#34;&gt;&lt;/a&gt;&lt;a class=&#34;fs-2x social-link link-twitter icon-twitter&#34; href=&#34;http://twitter.com/salles_tristan&#34; target=&#34;_blank&#34; data-toggle=&#34;tooltip&#34; title=&#34;Dr Tristan Salles on Twitter&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&#34;col-md-9 card-wrapper pull-right&#34;&gt;&lt;div class=&#34;card background-card&#34;&gt;&lt;h4 class=&#34;text-uppercase&#34;&gt;Background&lt;/h4&gt;&lt;hr/&gt;&lt;div class=&#34;background-details&#34;&gt;&lt;div class=&#34;detail&#34; id=&#34;about&#34;&gt;&lt;div class=&#34;icon&#34;&gt;&lt;i class=&#34;fs-lg icon-board&#34;&gt;&lt;/i&gt;&lt;span class=&#34;mobile-title&#34;&gt;About&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;h4 class=&#34;title text-uppercase&#34;&gt;About&lt;/h4&gt;&lt;div class=&#34;card card-nested&#34;&gt;&lt;div class=&#34;content mop-wrapper&#34; itemprop=&#34;description&#34;&gt;&lt;p&gt;Research in computational geosciences with application areas in sediment transport dynamics, Earth surface evolution, deep time interactions between climate, ocean, and geomorphology. Expert in quantitave methods based on forward modelling, data query, transformation &amp;amp; visualisation, algorithm design, and parallelism  implementation.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;detail&#34; id=&#34;work-experience&#34;&gt;&lt;div class=&#34;icon&#34;&gt;&lt;i class=&#34;fs-lg icon-office&#34;&gt;&lt;/i&gt;&lt;span class=&#34;mobile-title&#34;&gt;Work Experience&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;h4 class=&#34;title text-uppercase&#34;&gt;Work Experience&lt;/h4&gt;&lt;ul class=&#34;list-unstyled clear-margin&#34;&gt;&lt;li class=&#34;card card-nested clearfix&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin relative&#34;&gt;&lt;i class=&#34;icon-circle current-event&#34; rel=&#34;tooltip&#34; title=&#34;Currently Working&#34; data-placement=&#34;left&#34;&gt;&lt;/i&gt;&lt;strong&gt;Lecturer School of Geosciences&lt;/strong&gt;,&amp;nbsp;&lt;a href=&#34;http://sydney.edu.au/science/people/tristan.salles.php&#34; target=&#34;_blank&#34;&gt;The University of Sydney&lt;/a&gt;&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;&lt;span class=&#34;space-right&#34;&gt;Feb, 2015 - Present&lt;/span&gt;&lt;/small&gt;&lt;/p&gt;&lt;div class=&#34;mop-wrapper space-bottom&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://www.earthbyte.org&#34;&gt;EarthByte&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://grgusyd.org&#34;&gt;Geocoastal&lt;/a&gt; Research Groups&lt;br&gt;
+Permanent Academic Staff - 40% &lt;em&gt;Research&lt;/em&gt;, 40% &lt;em&gt;Teaching&lt;/em&gt; &amp;amp; 20% &lt;em&gt;Administration&lt;/em&gt;&lt;br&gt;
+Part of my teaching can be found &lt;a href=&#34;https://geoslearn.github.io&#34;&gt;@ GeosLearn&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;ul&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;HPC model of coupled sediment-ocean-wave modelling system at geological scale&lt;/p&gt;
+&lt;/li&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Parallel finite volume model to study landscape dynamics&lt;/p&gt;
+&lt;/li&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Ecological model of climate change impact on coral reefs evolution (integrated fuzzy logic/finite element method)&lt;/p&gt;
+&lt;/li&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Open Learning initiative: Data Science - Analysing and plotting data with R &amp;amp; Python&lt;/p&gt;
+&lt;/li&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Faculty of Science ICT Committee Research Representative&lt;/p&gt;
+&lt;/li&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Supervision of PhDs, Honours, Research Assistants &amp;amp; Developers&lt;/p&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=&#34;card card-nested clearfix&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin relative&#34;&gt;&lt;strong&gt;Senior Research Scientist&lt;/strong&gt;,&amp;nbsp;&lt;a href=&#34;https://www.csiro.au/en/Research/MRF&#34; target=&#34;_blank&#34;&gt;CSIRO Mineral Resources&lt;/a&gt;&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;&lt;span class=&#34;space-right&#34;&gt;May, 2011 - Feb, 2015&lt;/span&gt;&lt;span&gt;&lt;i class=&#34;icon-clock mr-5&#34;&gt;&lt;/i&gt;3 years 9 months&lt;/span&gt;&lt;/small&gt;&lt;/p&gt;&lt;div class=&#34;mop-wrapper space-bottom&#34;&gt;&lt;p&gt;Technical Algorithms Team&lt;br&gt;
+Project leader for HPC Geosciences projects -&lt;br&gt;
+Software architect in charge of the development of coupled geophysical framework&lt;/p&gt;
+&lt;/div&gt;&lt;ul&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Software architect: implementation of an Advance Earth Dynamic Coalescence Framework using ESMF standard&lt;/p&gt;
+&lt;/li&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Integrated Stratigraphy/Seismic Probing/Data Assimilation&lt;/p&gt;
+&lt;/li&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Parallel surface process model: conception &amp;amp; development under CSIRO Science Innovation Fund&lt;/p&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=&#34;card card-nested clearfix&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin relative&#34;&gt;&lt;strong&gt;Research Scientist&lt;/strong&gt;,&amp;nbsp;&lt;a href=&#34;https://www.csiro.au/en/Research/EF&#34; target=&#34;_blank&#34;&gt;CSIRO Energy&lt;/a&gt;&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;&lt;span class=&#34;space-right&#34;&gt;Mar, 2008 - May, 2011&lt;/span&gt;&lt;span&gt;&lt;i class=&#34;icon-clock mr-5&#34;&gt;&lt;/i&gt;3 years 2 months&lt;/span&gt;&lt;/small&gt;&lt;/p&gt;&lt;div class=&#34;mop-wrapper space-bottom&#34;&gt;&lt;p&gt;Predictive Geoscience Group&lt;br&gt;
+Worked on the implementation of new parallel algorithms to simulate Earth Surface evolution over millions of years&lt;br&gt;
+Designed workflow to visualise 3D Geological dataset&lt;/p&gt;
+&lt;/div&gt;&lt;ul&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Design and development of a parallel Lagrangian hydrodynamic model&lt;/p&gt;
+&lt;/li&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Parallel 3D visualisation based on Hdf5, XmF and XdmF formats for geophysical dataset&lt;/p&gt;
+&lt;/li&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Quantitative estimation of sea-level and halokinetics variations impact on mini-basin filling&lt;/p&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=&#34;card card-nested clearfix&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin relative&#34;&gt;&lt;strong&gt;Postdoctoral Fellow&lt;/strong&gt;,&amp;nbsp;&lt;a href=&#34;https://www.csiro.au/en/Research/OandA&#34; target=&#34;_blank&#34;&gt;CSIRO Wealth from Ocean Flagship&lt;/a&gt;&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;&lt;span class=&#34;space-right&#34;&gt;Feb, 2007 - Mar, 2008&lt;/span&gt;&lt;span&gt;&lt;i class=&#34;icon-clock mr-5&#34;&gt;&lt;/i&gt;1 year 1 month&lt;/span&gt;&lt;/small&gt;&lt;/p&gt;&lt;div class=&#34;mop-wrapper space-bottom&#34;&gt;&lt;p&gt;Design and development of new capabilities in CSIRO Stratigraphic Forward Modelling software&lt;br&gt;
+Quantitative seabed evolution under climate change and its implications for coastal resources and infrastructure management&lt;/p&gt;
+&lt;/div&gt;&lt;ul&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Development of an aeolian module based on Cellular Automata paradigm&lt;/p&gt;
+&lt;/li&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Predictive assessment of how climate change influences long-term regional seabed responses&lt;/p&gt;
+&lt;/li&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Mathematical model of compaction and diagenesis using predictor/corrector implicit finite-difference method&lt;/p&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=&#34;card card-nested clearfix&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin relative&#34;&gt;&lt;strong&gt;Internship&lt;/strong&gt;,&amp;nbsp;&lt;a href=&#34;https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development&#34; target=&#34;_blank&#34;&gt;EDF R&amp;amp;D LNHE&lt;/a&gt;&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;&lt;span class=&#34;space-right&#34;&gt;Mar, 2002 - Sep, 2002&lt;/span&gt;&lt;span&gt;&lt;i class=&#34;icon-clock mr-5&#34;&gt;&lt;/i&gt;6 months&lt;/span&gt;&lt;/small&gt;&lt;/p&gt;&lt;div class=&#34;mop-wrapper space-bottom&#34;&gt;&lt;p&gt;Laboratory model design and scaling&lt;br&gt;
+Numerical evaluation of wave forcings on offshore wind piles&lt;/p&gt;
+&lt;/div&gt;&lt;ul&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Data processing and upscaling&lt;/p&gt;
+&lt;/li&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Wave flume tank experimental model&lt;/p&gt;
+&lt;/li&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Numerical wave modelling&lt;/p&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;detail&#34; id=&#34;skills&#34;&gt;&lt;div class=&#34;icon&#34;&gt;&lt;i class=&#34;fs-lg icon-tools&#34;&gt;&lt;/i&gt;&lt;span class=&#34;mobile-title&#34;&gt;Skills&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;h4 class=&#34;title text-uppercase&#34;&gt;Skills&lt;/h4&gt;&lt;div class=&#34;content&#34;&gt;&lt;ul class=&#34;list-unstyled clear-margin&#34;&gt;&lt;li class=&#34;card card-nested card-skills&#34;&gt;&lt;div class=&#34;skill-level&#34; data-toggle=&#34;tooltip&#34; title=&#34;Master&#34; data-placement=&#34;left&#34;&gt;&lt;div class=&#34;skill-progress master&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;skill-info&#34;&gt;&lt;strong&gt;Programming&lt;/strong&gt;&lt;div class=&#34;space-top labels&#34;&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Fortran, Python, C&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;XML, CSS, HTML&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;MPI&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=&#34;card card-nested card-skills&#34;&gt;&lt;div class=&#34;skill-level&#34; data-toggle=&#34;tooltip&#34; title=&#34;Master&#34; data-placement=&#34;left&#34;&gt;&lt;div class=&#34;skill-progress master&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;skill-info&#34;&gt;&lt;strong&gt;Visualisation &amp;amp; Data Query&lt;/strong&gt;&lt;div class=&#34;space-top labels&#34;&gt;&lt;span class=&#34;label label-keyword&#34;&gt;VTK, NetCDF&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;HDF5, XMF, XDMF&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;OpenDAP, THREDDS&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=&#34;card card-nested card-skills&#34;&gt;&lt;div class=&#34;skill-level&#34; data-toggle=&#34;tooltip&#34; title=&#34;Master&#34; data-placement=&#34;left&#34;&gt;&lt;div class=&#34;skill-progress master&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;skill-info&#34;&gt;&lt;strong&gt;Computational Geometry&lt;/strong&gt;&lt;div class=&#34;space-top labels&#34;&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Triangular Irregular Network&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Voronoi Diagram&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Adaptive Mesh Refinment&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=&#34;card card-nested card-skills&#34;&gt;&lt;div class=&#34;skill-level&#34; data-toggle=&#34;tooltip&#34; title=&#34;Master&#34; data-placement=&#34;left&#34;&gt;&lt;div class=&#34;skill-progress master&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;skill-info&#34;&gt;&lt;strong&gt;Deployment&lt;/strong&gt;&lt;div class=&#34;space-top labels&#34;&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Docker container&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Amazon web service&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Jupyter notebook&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;detail&#34; id=&#34;education&#34;&gt;&lt;div class=&#34;icon&#34;&gt;&lt;i class=&#34;fs-lg icon-graduation-cap&#34;&gt;&lt;/i&gt;&lt;span class=&#34;mobile-title&#34;&gt;Education&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;h4 class=&#34;title text-uppercase&#34;&gt;Education&lt;/h4&gt;&lt;div class=&#34;content&#34;&gt;&lt;ul class=&#34;list-unstyled clear-margin&#34;&gt;&lt;li class=&#34;card card-nested&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin relative&#34;&gt;&lt;i class=&#34;icon-circle current-event&#34; rel=&#34;tooltip&#34; title=&#34;Currently Pursuing&#34; data-placement=&#34;left&#34;&gt;&lt;/i&gt;&lt;strong&gt;Educational Studies, Graduate Certificate (Higher Education),&amp;nbsp;&lt;/strong&gt;University of Sydney&lt;/p&gt;&lt;p class=&#34;text-muted clear-margin&#34;&gt;&lt;small&gt;Feb, 2017 - Present&lt;/small&gt;&lt;/p&gt;&lt;i&gt;&lt;/i&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=&#34;card card-nested&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin relative&#34;&gt;&lt;strong&gt;Computational Geosciences, PhD,&amp;nbsp;&lt;/strong&gt;IFPEN/University of Bordeaux&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;Sep, 2003 - Oct, 2006&lt;/small&gt;&lt;/p&gt;&lt;i&gt;Modelling sub-marine canyons and meandering channels using a genetic approach&lt;/i&gt;&lt;div class=&#34;space-top labels&#34;&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Navier-Stokes equations&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Lattice-Boltzmann methods&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Cellular Automata approach&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=&#34;card card-nested&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin relative&#34;&gt;&lt;strong&gt;Physical Oceanography, Master of Science,&amp;nbsp;&lt;/strong&gt;University of Aix-Marseille II&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;Sep, 2002 - Aug, 2003&lt;/small&gt;&lt;/p&gt;&lt;i&gt;HD - This formation provides solid knowledge in Oceanography &amp;amp; Coastal numerical modelling&lt;/i&gt;&lt;div class=&#34;space-top labels&#34;&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Marine/environmental science&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Coastal dynamics&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Turbulence&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Remote detection&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=&#34;card card-nested&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin relative&#34;&gt;&lt;strong&gt;Marine Engineering, Bachelor of Science &amp;amp; Master of Engineering,&amp;nbsp;&lt;/strong&gt;Ecole Centrale Marseille&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;Sep, 2000 - Aug, 2003&lt;/small&gt;&lt;/p&gt;&lt;i&gt;Hons - Multi-disciplinary formation that provides solid knowledge in Mathematics &amp;amp; Physics&lt;/i&gt;&lt;div class=&#34;space-top labels&#34;&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Ocean hydrodynamics&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Computational physics&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Numerical methods&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Experimental hydrodynamics&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;detail&#34; id=&#34;awards&#34;&gt;&lt;div class=&#34;icon&#34;&gt;&lt;i class=&#34;fs-lg icon-trophy&#34;&gt;&lt;/i&gt;&lt;span class=&#34;mobile-title&#34;&gt;Awards&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;h4 class=&#34;title text-uppercase&#34;&gt;Awards&lt;/h4&gt;&lt;div class=&#34;content&#34;&gt;&lt;ul class=&#34;list-unstyled clear-margin&#34;&gt;&lt;li class=&#34;card card-nested&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin&#34; itemprop=&#34;award&#34;&gt;&lt;strong&gt;Scientific Mobility Fund &lt;/strong&gt;University of Bergen (Norway)&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;Awarded on: Jun 15, 2017&lt;/small&gt;&lt;/p&gt;&lt;div class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Visiting scientist Statoil Academic Agreement&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=&#34;card card-nested&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin&#34; itemprop=&#34;award&#34;&gt;&lt;strong&gt;Scientific Mobility Fund &lt;/strong&gt;University of Bergen (Norway)&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;Awarded on: Jun 15, 2016&lt;/small&gt;&lt;/p&gt;&lt;div class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Visiting scientist Statoil Academic Agreement&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=&#34;card card-nested&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin&#34; itemprop=&#34;award&#34;&gt;&lt;strong&gt;CIFRE Top-up Scholarship &lt;/strong&gt;IFPEN&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;Awarded on: Jan 09, 2003&lt;/small&gt;&lt;/p&gt;&lt;div class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;3-years competitive research grant from IFPEN&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=&#34;card card-nested&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin&#34; itemprop=&#34;award&#34;&gt;&lt;strong&gt;ANRT Scholarship &lt;/strong&gt;French Government&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;Awarded on: Jan 09, 2003&lt;/small&gt;&lt;/p&gt;&lt;div class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;3-years competitive Education &amp;amp; Research funding from the French Government&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;detail&#34; id=&#34;volunteer-work&#34;&gt;&lt;div class=&#34;icon&#34;&gt;&lt;i class=&#34;fs-lg icon-child&#34;&gt;&lt;/i&gt;&lt;span class=&#34;mobile-title&#34;&gt;Volunteer Work&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;h4 class=&#34;title text-uppercase&#34;&gt;Volunteer Work&lt;/h4&gt;&lt;div class=&#34;content&#34;&gt;&lt;ul class=&#34;list-unstyled clear-margin&#34;&gt;&lt;li class=&#34;card card-nested&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin relative&#34;&gt;&lt;i class=&#34;icon-circle current-event&#34; rel=&#34;tooltip&#34; title=&#34;Currently Volunteering&#34; data-placement=&#34;left&#34;&gt;&lt;/i&gt;&lt;strong&gt;Surf Life Saver, &lt;/strong&gt;&lt;a href=&#34;https://sls.com.au&#34; target=&#34;_blank&#34;&gt;Surf Life Saving Australia&lt;/a&gt;&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;Sep, 2012 - Present&lt;/small&gt;&lt;/p&gt;&lt;div class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Patrolling Maroubra Beach and participating in lifesaving operations&lt;/p&gt;
+&lt;/div&gt;&lt;ul&gt;&lt;li class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Awarded &#39;Bronze Medaillon / Certificate II in Public Safety&#39; (Aquatic Rescue)&lt;/p&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;detail&#34; id=&#34;publications&#34;&gt;&lt;div class=&#34;icon&#34;&gt;&lt;i class=&#34;fs-lg icon-newspaper&#34;&gt;&lt;/i&gt;&lt;span class=&#34;mobile-title&#34;&gt;Publications&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;h4 class=&#34;title text-uppercase&#34;&gt;Publications&lt;/h4&gt;&lt;div class=&#34;content&#34;&gt;&lt;ul class=&#34;list-unstyled clear-margin&#34;&gt;&lt;li class=&#34;card card-nested&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;p class=&#34;clear-margin&#34;&gt;&lt;strong&gt;&lt;a href=&#34;http://orcid.org/0000-0001-6095-7689&#34; target=&#34;_blank&#34;&gt;Peer-Reviewed Publications&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;/strong&gt;Complete list&lt;/p&gt;&lt;p class=&#34;text-muted&#34;&gt;&lt;small&gt;Published on: Jan 01, 2018&lt;/small&gt;&lt;/p&gt;&lt;div class=&#34;mop-wrapper&#34;&gt;&lt;p&gt;Other sources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://orcid.org/0000-0001-6095-7689&#34;&gt;&lt;em&gt;ORCID&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Tristan_Salles&#34;&gt;&lt;em&gt;ResearchGate&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?user=UnmpGx8AAAAJ&amp;amp;hl=en&#34;&gt;&lt;em&gt;GoogleScholar&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;detail&#34; id=&#34;interests&#34;&gt;&lt;div class=&#34;icon&#34;&gt;&lt;i class=&#34;fs-lg icon-heart&#34;&gt;&lt;/i&gt;&lt;span class=&#34;mobile-title&#34;&gt;Interests&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;h4 class=&#34;title text-uppercase&#34;&gt;Interests&lt;/h4&gt;&lt;div class=&#34;content&#34;&gt;&lt;ul class=&#34;list-unstyled clear-margin&#34;&gt;&lt;li class=&#34;card card-nested&#34;&gt;&lt;p&gt;&lt;strong&gt;Outdoor&lt;/strong&gt;&lt;/p&gt;&lt;div class=&#34;space-top labels&#34;&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Running&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Hiking&lt;/span&gt;&lt;span class=&#34;label label-keyword&#34;&gt;Surfing&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;detail&#34; id=&#34;references&#34;&gt;&lt;div class=&#34;icon&#34;&gt;&lt;i class=&#34;fs-lg icon-thumbs-up&#34;&gt;&lt;/i&gt;&lt;span class=&#34;mobile-title&#34;&gt;References&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;h4 class=&#34;title text-uppercase&#34;&gt;References&lt;/h4&gt;&lt;div class=&#34;content&#34;&gt;&lt;ul class=&#34;list-unstyled clear-margin&#34;&gt;&lt;li class=&#34;card card-nested&#34;&gt;Available upon request&lt;blockquote class=&#34;quote&#34;&gt;&lt;div class=&#34;mop-wrapper&#34;&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;&lt;/div&gt;&lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js&#34;&gt;&lt;/script&gt;&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;&lt;script&gt;$(function () {
+  var toggleFloatingMenu = function() {
+    $( &#39;.js-floating-nav&#39; ).toggleClass( &#39;is-visible&#39; );
+    $( &#39;.js-floating-nav-trigger&#39; ).toggleClass( &#39;is-open&#39; );
+  };
+
+  $( &#34;.background-card&#34; ).css( &#34;min-height&#34;, window.screen.availHeight + &#34;px&#34; );
+  $( &#34;[data-toggle=tooltip]&#34; ).tooltip();
+  $( &#39;.js-floating-nav-trigger&#39; ).on( &#39;click&#39;, function(e) {
+    e.preventDefault();
+    toggleFloatingMenu();
+  });
+  $( &#39;.js-floating-nav a&#39; ).on( &#39;click&#39;, toggleFloatingMenu );
+
+  $(&#34;#remaining-profiles&#34;).on(&#39;show.bs.collapse&#39;, function() {
+    $( &#39;.js-profiles-collapse &gt; i&#39; )
+      .removeClass( &#39;icon-chevron-down&#39; )
+      .addClass( &#39;icon-chevron-up&#39; );
+  });
+
+  $(&#34;#remaining-profiles&#34;).on(&#39;hidden.bs.collapse&#39;, function() {
+    $( &#39;.js-profiles-collapse &gt; i&#39; )
+      .removeClass( &#39;icon-chevron-up&#39; )
+      .addClass( &#39;icon-chevron-down&#39; );
+  });
+});
+&lt;/script&gt;&lt;script&gt;WebFontConfig = {
+  google: { families: [ &#39;Lato:300,400,700:latin&#39; ] }
+};
+(function() {
+  var wf = document.createElement(&#39;script&#39;);
+  wf.src = (&#39;https:&#39; == document.location.protocol ? &#39;https&#39; : &#39;http&#39;) +
+    &#39;://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js&#39;;
+  wf.type = &#39;text/javascript&#39;;
+  wf.async = &#39;true&#39;;
+  var s = document.getElementsByTagName(&#39;script&#39;)[0];
+  s.parentNode.insertBefore(wf, s);
+})();&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

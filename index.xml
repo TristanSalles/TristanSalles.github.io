@@ -38,6 +38,15 @@
     </item>
     
     <item>
+      <title>Sediment Transport</title>
+      <link>https://TristanSalles.github.io/project/calcsand/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://TristanSalles.github.io/project/calcsand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Responses of reefs to climatic forcing – A numerical perspective</title>
       <link>https://TristanSalles.github.io/talk/coral/</link>
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
@@ -981,101 +990,6 @@ Here&#39;s some important information...
       
       <guid>https://TristanSalles.github.io/publication/compgeo/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Badlands</title>
-      <link>https://TristanSalles.github.io/project/badlands/</link>
-      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://TristanSalles.github.io/project/badlands/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;https://zenodo.org/badge/latestdoi/51286954&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/51286954.svg&#34; alt=&#34;DOI&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Ba&lt;/strong&gt;sin an&lt;strong&gt;d&lt;/strong&gt; &lt;strong&gt;Lan&lt;/strong&gt;dscape &lt;strong&gt;D&lt;/strong&gt;ynamic&lt;strong&gt;s&lt;/strong&gt; (&lt;strong&gt;Badlands&lt;/strong&gt;) is a parallel TIN-based landscape evolution model, built to simulate topography development at various space and time scales. The model is capable of simulating hillslope processes (&lt;strong&gt;linear&lt;/strong&gt; &amp;amp; &lt;strong&gt;non-linear&lt;/strong&gt; diffusion), fluvial incision (&lt;em&gt;&amp;lsquo;modified&amp;rsquo;&lt;/em&gt; &lt;strong&gt;Stream Power Law&lt;/strong&gt;, &lt;strong&gt;Transport Capacity Law&lt;/strong&gt; both for sediment  erosion/transport/deposition), spatially and temporally varying geodynamic (horizontal + vertical displacements) and climatic forces which can be used to simulate changes in base level, as well as effects of climate changes or sea-level fluctuations. The model uses  &lt;a href=&#34;https://github.com/awickert/gFlex&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;gFlex&lt;/strong&gt;&lt;/a&gt; package which is designed to solve elastic plate flexure for applications to Earth&amp;rsquo;s lithosphere.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://prezi.com/5y1usorz8e8k/badlands-overview/?utm_campaign=share&amp;amp;utm_medium=copy&#34; target=&#34;_blank&#34;&gt;Badlands overview&lt;/a&gt; - Basin Genesis Hub presentation (2017)&lt;/p&gt;
-
-&lt;h2 id=&#34;getting-started&#34;&gt;Getting started&lt;/h2&gt;
-
-&lt;p&gt;For installation information and documentation visit our github &lt;a href=&#34;https://github.com/badlands-model/pyBadlands/wiki&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;wiki page&lt;/strong&gt;&lt;/a&gt; which provides several useful notes on how to start using the tool.&lt;/p&gt;
-
-&lt;p&gt;The easiest way to get started is with the &lt;a href=&#34;https://hub.docker.com/u/badlandsmodel/&#34; target=&#34;_blank&#34;&gt;Docker container&lt;/a&gt; using &lt;a href=&#34;https://docs.docker.com/kitematic/userguide/&#34; target=&#34;_blank&#34;&gt;Kitematic&lt;/a&gt;. Once &lt;strong&gt;Kitematic&lt;/strong&gt; is installed on your computer, open it and look for &lt;strong&gt;pybadlands-demo&lt;/strong&gt; via the &lt;em&gt;search&lt;/em&gt; menu.&lt;/p&gt;
-
-&lt;p&gt;If you want to install it yourself, these 2 Dockerfiles (&lt;a href=&#34;https://github.com/badlands-model/pyBadlands-Dependencies-Docker/blob/master/Dockerfile&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;dependencies&lt;/strong&gt;&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/badlands-model/pyBadlands-Docker-Demo/blob/master/Dockerfile&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;code&lt;/strong&gt;&lt;/a&gt;) are the best documentation of the required packages.&lt;/p&gt;
-
-&lt;p&gt;The latest pyBadlands version is the one that’s in our Github &lt;a href=&#34;https://github.com/badlands-model/pyBadlands&#34; target=&#34;_blank&#34;&gt;repository&lt;/a&gt;. Get it using this shell command, which requires Git:
-- &lt;code&gt;git clone https://github.com/badlands-model/pyBadlands.git&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;API documentation&lt;/strong&gt; is available from &lt;a href=&#34;http://pybadlands.readthedocs.io/en/master/&#34; target=&#34;_blank&#34;&gt;http://pybadlands.readthedocs.io&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;the-specs&#34;&gt;The specs&amp;hellip;&lt;/h2&gt;
-
-&lt;p&gt;The model is based on the following characteristics:
-+ The finite volume approach from &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0098300400001345&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Tucker et al. (2001)&lt;/strong&gt;&lt;/a&gt; based on the dual Delaunay-Voronoi framework is used to solve the continuity equation explicitly,
-+ Node ordering is perform efficiently based on the work from &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0169555X12004618&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Braun &amp;amp; Willett (2013)&lt;/strong&gt;&lt;/a&gt;,
-+ 3D surface deformations using the node refinement technique proposed by &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/2014GC005490/abstract;jsessionid=48A885F79A40B1E3E76AFC1BEAA2B238.f03t03&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Thieulot et al. ( 2014)&lt;/strong&gt;&lt;/a&gt;.
-+ Orographic precipitation using &lt;a href=&#34;http://journals.ametsoc.org/doi/abs/10.1175/1520-0469(2004)061%3C1377%3AALTOOP%3E2.0.CO%3B2&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Smith &amp;amp; Barstad (2004)&lt;/strong&gt;&lt;/a&gt; linear model to compute topographic induced rain field.
-+ Varying erodibility layers (both horizontally and vertically) to simulate impact of changing sediment characteristics on landscape evolution.&lt;/p&gt;
-
-&lt;p&gt;A set of functions for &lt;em&gt;pre&lt;/em&gt; &amp;amp; &lt;em&gt;post&lt;/em&gt;-processing of &lt;strong&gt;Badlands&lt;/strong&gt; inputs and outputs is available in a GitHub &lt;a href=&#34;https://github.com/badlands-model/pyBadlands-Companion&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Companion&lt;/strong&gt;&lt;/a&gt; repository which is already shipped with the Badlands Docker container.&lt;/p&gt;
-
-&lt;h3 id=&#34;community-driven&#34;&gt;Community driven&lt;/h3&gt;
-
-&lt;p&gt;This program is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.&lt;/p&gt;
-
-&lt;p&gt;This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.&lt;/p&gt;
-
-&lt;p&gt;You should have received a copy of the GNU Lesser General Public License along with this program.  If not, see &lt;a href=&#34;http://www.gnu.org/licenses/lgpl-3.0.en.html&#34; target=&#34;_blank&#34;&gt;http://www.gnu.org/licenses/lgpl-3.0.en.html&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;versioning&#34;&gt;Versioning&lt;/h3&gt;
-
-&lt;p&gt;Current releases (&lt;strong&gt;DOI&lt;/strong&gt; citable):&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Release v1.0.0 :&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://doi.org/10.5281/zenodo.160412&#34; target=&#34;_blank&#34;&gt;Release 1: badlands-model/pyBadlands&lt;/a&gt;, Zenodo, doi:10.5281/zenodo.160412, 2016.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Release v1.1.0 :&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://doi.org/10.5281/zenodo.268053&#34; target=&#34;_blank&#34;&gt;Release 2: badlands-model/pyBadlands&lt;/a&gt;, Zenodo, doi:10.5281/zenodo.268053, 2017.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;v2.0.0 Release Candidate :&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The &lt;code&gt;master&lt;/code&gt; branch is a stable version of the code with the most recent developments embedded and is expected to be released as &lt;strong&gt;version 2.0.0&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;reporting&#34;&gt;Reporting&lt;/h3&gt;
-
-&lt;p&gt;If you come accross a bug or if you need some help compiling or using the code you can:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;go through our mailing list &lt;a href=&#34;http://mailman.sydney.edu.au/pipermail/badlands/&#34; target=&#34;_blank&#34;&gt;Archive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;subscribe to our &lt;a href=&#34;http://mailman.sydney.edu.au/mailman/listinfo/badlands&#34; target=&#34;_blank&#34;&gt;mailing list&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;or &lt;a href=&#34;mailto:badlands@mailman.sydney.edu.au&#34; target=&#34;_blank&#34;&gt;drop us a line&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;hands-on-examples&#34;&gt;Hands-on examples&lt;/h2&gt;
-
-&lt;p&gt;A compilation of notebooks with examples are proposed to give you a quick feeling of what could be done with the code. Testing models:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;delta evolution under sea-level fluctuation &lt;a href=&#34;http://nbviewer.jupyter.org/github/badlands-model/pyBadlands/blob/master/Examples/delta/delta.ipynb&#34; target=&#34;_blank&#34;&gt;nbviewer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;impact of climate on mountain dynamic &lt;a href=&#34;http://nbviewer.jupyter.org/github/badlands-model/pyBadlands/blob/master/Examples/mountain/mountain.ipynb&#34; target=&#34;_blank&#34;&gt;nbviewer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;basin filling associated to a strike-slip fault system &lt;a href=&#34;http://nbviewer.jupyter.org/github/badlands-model/pyBadlands/blob/master/Examples/strikeslip/strike-slip.ipynb&#34; target=&#34;_blank&#34;&gt;nbviewer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;infilling of a crater-type topography &lt;a href=&#34;http://nbviewer.jupyter.org/github/badlands-model/pyBadlands/blob/master/Examples/crater/crater.ipynb&#34; target=&#34;_blank&#34;&gt;nbviewer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;flexural response due to loading and unloading under variable elastic thickness &lt;a href=&#34;http://nbviewer.jupyter.org/github/badlands-model/pyBadlands/blob/master/Examples/flexure/flexure.ipynb&#34; target=&#34;_blank&#34;&gt;nbviewer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;quick setup of real topography/bathymetry model using etopo1 &lt;a href=&#34;http://nbviewer.jupyter.org/github/badlands-model/pyBadlands/blob/master/Examples/etopo/etopo.ipynb&#34; target=&#34;_blank&#34;&gt;nbviewer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>
